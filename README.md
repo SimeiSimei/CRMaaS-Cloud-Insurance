@@ -13,7 +13,7 @@
 ## 🇬🇧 English Version
 
 ### 📝 Abstract
-The insurance industry consists of a group of companies providing essential services. However, the Iranian insurance industry lacks a unified software for managing customer relationships. This paper, written in **2012 (۱۳۹۱)**, proposes a model for CRM software operating under cloud computing technology (CRMaaS), representing CRM as a suite of service offerings where customer demands are viewed as specific service requests.
+The insurance industry consists of a group of companies providing essential services. However, the Iranian insurance industry lacks a unified software for managing customer relationships. This paper, written in **2012**, proposes a model for CRM software operating under cloud computing technology (CRMaaS), representing CRM as a suite of service offerings where customer demands are viewed as specific service requests.
 
 **Keywords:** Insurance Industry, CRM, Cloud Computing, e-CRM.
 
@@ -41,7 +41,7 @@ Traditional communication and isolated CRM databases in agencies lead to a lack 
 ## 🇩🇪 Deutsche Version
 
 ### 📝 Zusammenfassung (Abstract)
-Die Versicherungsbranche bietet wesentliche Dienstleistungen an, jedoch fehlt eine einheitliche Software für das Kundenbeziehungsmanagement. Diese Arbeit (verfasst **2012 / ۱۳۹۱**) schlägt ein Modell für CRM-Software vor, die unter Cloud-Computing-Technologie (CRMaaS) betrieben wird.
+Die Versicherungsbranche bietet wesentliche Dienstleistungen an, jedoch fehlt eine einheitliche Software für das Kundenbeziehungsmanagement. Diese Arbeit (verfasst **2012**) schlägt ein Modell für CRM-Software vor, die unter Cloud-Computing-Technologie (CRMaaS) betrieben wird.
 
 **Schlüsselwörter:** Versicherungswirtschaft, CRM, Cloud Computing, e-CRM.
 
