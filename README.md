@@ -3,7 +3,7 @@
 
 ---
 
-## 🌍 Languages / زبان‌ها
+## 🌍 Languages 
 * [English](#english-version)
 * [Deutsch (German)](#deutsche-version)
 
