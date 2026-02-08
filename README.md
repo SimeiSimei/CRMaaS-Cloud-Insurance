@@ -1,5 +1,5 @@
 # Customer Relationship Management as a Service (CRMaaS)
-### A Cloud Computing Perspective on CRM in the Insurance Industry (2012 / ۱۳۹۱)
+### A Cloud Computing Perspective on CRM in the Insurance Industry (2012)
 
 ---
 
@@ -66,7 +66,7 @@ Traditionelle Kommunikation und isolierte CRM-Datenbanken führen zu einem Mange
 
 ## 🎓 Publication & Indexing
 Presented at **The 2nd Specialized Conference and Exhibition on Electronic Insurance**.
-* **Date of Work:** 2012 (۱۳۹۱)
+* **Date of Work:** 2012 
 * **Official Website:** [www.eiconference.ir](http://www.eiconference.ir)
 
 ## 📚 How to Cite / Zitierweise
